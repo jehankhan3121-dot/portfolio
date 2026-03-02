@@ -1,8 +1,7 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Jehan Zeb | Data Entry, Copy Paste & Formatting Expert</title>
+    <title>Jehan Zeb | Data Entry & Formatting Expert</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         *{
@@ -13,7 +12,7 @@
         }
 
         body{
-            background:#312323;
+            background:#0e0e0e;
             color:white;
         }
 
@@ -112,11 +111,8 @@
 <body>
 
 <header>
-    <h1>Professional Data Entry & Formatting Expert
-    </h1>
-    <p>Fast Delivery | Clean and Accurate| 100% Client Satisfaction</p>
-
-    <!-- Order Buttons -->
+    <h1>Professional Data Entry & Formatting Expert</h1>
+    <p>Fast Delivery | 100% Accurate | Client Satisfaction</p>
 
     <a href="https://fiverr.com/s/YRA3myz" target="_blank">
         <button class="btn primary">Order Now</button>
@@ -125,7 +121,6 @@
     <a href="https://fiverr.com/s/YRA3myz" target="_blank">
         <button class="btn secondary">Order Direct</button>
     </a>
-
 </header>
 
 <section>
@@ -133,16 +128,16 @@
     <div class="grid">
         <div class="card">
             <h3>✔ Clean and Accurate</h3>
-            <p>Accurate and well-formatted data entry work with 100% quality.</p>
+            <p>High quality data entry & formatting work.</p>
         </div>
 
         <div class="card">
             <h3>✔ Fast Delivery</h3>
-            <p>Project delivered before deadline.</p>
+            <p>I deliver before deadline with quality.</p>
         </div>
 
         <div class="card">
-            <h3>✔ Support</h3>
+            <h3>✔ Free Support</h3>
             <p>Free revisions & support after delivery.</p>
         </div>
     </div>
