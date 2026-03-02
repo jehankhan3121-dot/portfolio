@@ -142,7 +142,9 @@
         </div>
     </div>
 </section>
-
+<a href="https://wa.me/0301900202" target="_blank">
+<button class="btn secondary">📱 WhatsApp Me</button>
+</a>
 <section>
     <h2>Ready To Start?</h2>
     <p>Click below and order your project now 🚀</p>
