@@ -1,2 +1,166 @@
-# portfolio
-my freelancer portfolio
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jehan Zeb | Data Entry, Copy Paste & Formatting Expert</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
+            font-family:Segoe UI;
+        }
+
+        body{
+            background:#312323;
+            color:white;
+        }
+
+        header{
+            height:100vh;
+            background:linear-gradient(135deg,#141e30,#243b55);
+            display:flex;
+            flex-direction:column;
+            justify-content:center;
+            align-items:center;
+            text-align:center;
+            padding:20px;
+        }
+
+        header h1{
+            font-size:50px;
+            text-shadow:0 0 20px #00f2ff;
+            margin-bottom:20px;
+        }
+
+        header p{
+            font-size:20px;
+            margin-bottom:30px;
+        }
+
+        .btn{
+            padding:15px 30px;
+            border:none;
+            border-radius:30px;
+            font-size:16px;
+            cursor:pointer;
+            margin:10px;
+            transition:0.3s;
+        }
+
+        .primary{
+            background:#00f2ff;
+            color:black;
+        }
+
+        .primary:hover{
+            background:#ff00cc;
+            color:white;
+            box-shadow:0 0 20px #ff00cc;
+        }
+
+        .secondary{
+            background:#ff9800;
+            color:black;
+        }
+
+        .secondary:hover{
+            background:#ff5722;
+            color:white;
+            box-shadow:0 0 20px #ff5722;
+        }
+
+        section{
+            padding:80px 20px;
+            text-align:center;
+        }
+
+        .grid{
+            display:flex;
+            flex-wrap:wrap;
+            justify-content:center;
+            gap:25px;
+        }
+
+        .card{
+            background:#1c1c1c;
+            padding:30px;
+            border-radius:15px;
+            width:280px;
+            border:1px solid #333;
+            transition:0.4s;
+        }
+
+        .card:hover{
+            transform:translateY(-10px);
+            box-shadow:0 0 20px #00f2ff;
+        }
+
+        footer{
+            padding:20px;
+            text-align:center;
+            background:#111;
+        }
+
+        @media(max-width:768px){
+            header h1{font-size:32px;}
+        }
+
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Professional Data Entry & Formatting Expert
+    </h1>
+    <p>Fast Delivery | Clean and Accurate| 100% Client Satisfaction</p>
+
+    <!-- Order Buttons -->
+
+    <a href="https://fiverr.com/s/YRA3myz" target="_blank">
+        <button class="btn primary">Order Now</button>
+    </a>
+
+    <a href="https://fiverr.com/s/YRA3myz" target="_blank">
+        <button class="btn secondary">Order Direct</button>
+    </a>
+
+</header>
+
+<section>
+    <h2>Why Choose Me?</h2>
+    <div class="grid">
+        <div class="card">
+            <h3>✔ Clean and Accurate</h3>
+            <p>Accurate and well-formatted data entry work with 100% quality.</p>
+        </div>
+
+        <div class="card">
+            <h3>✔ Fast Delivery</h3>
+            <p>Project delivered before deadline.</p>
+        </div>
+
+        <div class="card">
+            <h3>✔ Support</h3>
+            <p>Free revisions & support after delivery.</p>
+        </div>
+    </div>
+</section>
+
+<section>
+    <h2>Ready To Start?</h2>
+    <p>Click below and order your project now 🚀</p>
+
+    <a href="https://fiverr.com/s/YRA3myz" target="_blank">
+        <button class="btn primary">Start Project</button>
+    </a>
+
+</section>
+
+<footer>
+    <p>© 2026 Jehan Zeb | Fiverr Developer</p>
+</footer>
+
+</body>
+</html>
